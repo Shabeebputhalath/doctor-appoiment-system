@@ -1,0 +1,86 @@
+{
+  "hero": {
+    "heroTitle": "Your Health, Our Priority.",
+    "heroSubtitle": "Access world-class healthcare from the comfort of your home. Connect with certified specialists in minutes.",
+    "ctaText": "Start Consultation"
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Jenkins",
+      "content": "The booking process was incredibly smooth. I found a top specialist and scheduled a call within minutes. Life-changing!",
+      "rating": 5,
+      "role": "Patient"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Michael Chen",
+      "content": "As a doctor, this platform helps me manage my patients efficiently. The interface is intuitive and professional.",
+      "rating": 5,
+      "role": "Specialist"
+    },
+    {
+      "id": 3,
+      "name": "Robert Miller",
+      "content": "Finally, a medical app that actually works. The secure payment and verified doctor tags give me total confidence.",
+      "rating": 4,
+      "role": "Patient"
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "How do I book an appointment?",
+      "answer": "“Booking an appointment is simple and seamless through our digital healthcare platform. Patients can browse available doctors by specialty, select preferred consultation times, and confirm appointments instantly through a secure scheduling system. Automated reminders and real-time availability ensure a smooth and convenient healthcare experience.”"
+    },
+    {
+      "id": 2,
+      "question": "Is the consultation covered by insurance?",
+      "answer": "“Our healthcare services are compatible with a wide range of major insurance providers and medical coverage plans. Coverage eligibility may vary depending on your provider, consultation type, and healthcare package. Patients can easily verify insurance support during the appointment scheduling process.”"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "24/7 Virtual Care",
+      "description": "Experience uninterrupted healthcare access with our advanced virtual care platform, designed to connect patients with licensed medical professionals anytime, anywhere. From routine consultations to urgent medical guidance, our secure digital ecosystem ensures fast response times, personalized treatment recommendations, and continuous patient support through modern telemedicine technology.",
+      "icon": "Zap",
+      "color": "bg-blue-500"
+    },
+    {
+      "id": 2,
+      "title": "Specialist Consultation",
+      "description": "Gain access to highly qualified medical specialists across multiple healthcare disciplines through a streamlined digital consultation experience. Our platform delivers in-depth clinical evaluations, expert second opinions, treatment planning, and patient-centered healthcare solutions tailored to complex medical conditions and long-term wellness management.",
+      "icon": "Stethoscope",
+      "color": "bg-cyan-500"
+    },
+    {
+      "id": 1779294312805,
+      "title": "AI Health Monitoring",
+      "description": "Transform preventive healthcare with intelligent health monitoring systems powered by real-time analytics and advanced artificial intelligence. Track patient vitals, detect potential health risks early, receive predictive insights, and maintain continuous communication between patients and healthcare providers through secure digital monitoring technologies.",
+      "icon": "HeartPulse",
+      "color": "bg-primary"
+    },
+    {
+      "id": 1779294336212,
+      "title": "Remote Patient Monitoring",
+      "description": "Enhance healthcare outcomes through continuous remote patient monitoring designed for chronic disease management, post-treatment recovery, and preventive care. Our integrated monitoring solutions provide real-time data tracking, instant alerts, and personalized healthcare reporting to ensure safer and more effective patient management.",
+      "icon": "HeartPulse",
+      "color": "bg-primary"
+    },
+    {
+      "id": 1779294353413,
+      "title": "Personalized Treatment Plans",
+      "description": "Deliver individualized healthcare experiences with customized treatment plans developed through comprehensive patient analysis, medical history evaluation, and specialist collaboration. Our patient-focused approach combines modern medical expertise, digital healthcare innovation, and ongoing progress monitoring to improve treatment efficiency and long-term wellness.",
+      "icon": "HeartPulse",
+      "color": "bg-primary"
+    },
+    {
+      "id": 1779294372836,
+      "title": "Mental Wellness Therapy",
+      "description": "Support emotional well-being through confidential digital therapy sessions, professional mental health consultations, and personalized wellness programs. Our platform provides secure access to certified mental health professionals dedicated to helping patients manage stress, anxiety, emotional challenges, and overall psychological wellness.",
+      "icon": "HeartPulse",
+      "color": "bg-primary"
+    }
+  ]
+}

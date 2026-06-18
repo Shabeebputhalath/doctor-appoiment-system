@@ -1,0 +1,8 @@
+{
+  "name": "HealSync | Smart Doctor Appointments",
+  "description": "A comprehensive healthcare management platform for multi-role medical services, appointments, and patient care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
